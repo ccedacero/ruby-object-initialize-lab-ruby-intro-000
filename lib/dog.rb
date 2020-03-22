@@ -3,7 +3,7 @@ class Dog
     @dog = dog
   end
   
-  def dog
-    @dog
+  def dog=(dog)
+  @dog
   end
 end
